@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VK PhotoMaps</string>
+    <string name="downloading_dialog_message">Загрузка фотографий</string>
+    <string name="clear_button">Очистить</string>
+
+</resources>
